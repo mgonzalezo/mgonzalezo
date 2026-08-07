@@ -1,5 +1,9 @@
 # Marco Gonzalez · @mgonzalezo
 
+<p align="center">
+  <img src="profile_pic.png" alt="Marco Gonzalez" width="180" />
+</p>
+
 **Sr. Software Engineer @ Red Hat · AAIF Ambassador · Open Source Contributor**
 
 Building cloud-native AI infrastructure at the intersection of Kubernetes, LLMs, and agentic systems.
