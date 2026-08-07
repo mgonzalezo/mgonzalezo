@@ -28,7 +28,7 @@ Building cloud-native AI infrastructure at the intersection of Kubernetes, LLMs,
 |----|-------------|--------|
 | [kserve/website#697](https://github.com/kserve/website/pull/697) | Docs: LLMInferenceService + AgentGateway integration guide | ✅ Merged  |
 | [kserve/website#691](https://github.com/kserve/website/pull/691) | Docs: vLLM CPU backend for text generation | ✅ Merged |
-| [kserve/kserve#5697](https://github.com/kserve/kserve/pull/5697) | Fix: template storage resources in inferenceservice-config ConfigMap | Open |
+| [kserve/kserve#5697](https://github.com/kserve/kserve/pull/5697) | Fix: template storage resources in inferenceservice-config ConfigMap | ✅ Merged |
 
 ### AgentGateway (AAIF / Linux Foundation)
 | Issue | Description |
